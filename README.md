@@ -27,5 +27,10 @@ and run `python enigma.py` output for "anything" with my settings will be: "pbqd
 بعدش با دستوری که میبینین خروجی میگیرین که برای کلمه همه چیز با تنظیمات من شده اون قاطی پاتی که میبینین
 
 and for decode this "pbqdwlqk" just change the ` plain = "pbqdwlqk"` to "anything"
+
 برای دیکد کردنش کافیه همون متن خروجی رو بزارین داخل اون متغیر و دوباره انیگما رو ران کنین 
-have problem? contact: [razyar](https://khoderazyar.ir) اگه مشکلی داشتین 
+
+have problem? contact: [razyar](https://khoderazyar.ir)  
+اگه مشکلی داشتین
+
+
