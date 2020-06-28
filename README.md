@@ -1,5 +1,6 @@
-# Enigma machine
+# Enigma machine ماشین انیگما
 (this repositore is writed based on a video by [jadi](https://github.com/jadijadi) on youtube)
+این مخزن بر اساس فیلمی که [جادی](https://github.com/jadijadi) در یوتیوب گذاشته ساخته شده
 
 # requirements:
 
