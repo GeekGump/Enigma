@@ -1,4 +1,4 @@
-#Enigma machine
+# Enigma machine
 (this repositore is writed based on a video by [jadi](https://github.com/jadijadi) on youtube)
 
 # requirements:
